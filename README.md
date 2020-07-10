@@ -92,15 +92,3 @@ Check the process of websocket server, `ffmpeg` should start sending data to RTM
 When you will run the command that time `Chrome` browser will be open in background & visit the link to perform screen recording. So, if you have set 10 seconds then it will record 10 seconds only. Later it will give you file as webm or mp4.
 
 **Note: It will use extra CPU to process chrome & ffmpeg.** 
-
-
-## Looking for Bigbluebutton shared hosting?
-
-We are offering cheaper [Bigbluebutton Premium hosting](https://www.mynaparrot.com/classroom/bigbluebuttonservice) or Bigbluebutton installation/configuration/loadbalance service. You can send me email jibon[@]mynaparrot.com
-
-
-### Thanks to
-
-[puppetcam](https://github.com/muralikg/puppetcam). Most of the parts were copied from there. 
-
-[Canvas-Streaming-Example](https://github.com/fbsamples/Canvas-Streaming-Example)
